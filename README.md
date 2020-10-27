@@ -2,7 +2,7 @@
 
 ## **REFER TO ERD Diagram within images folder !!**
 
-![image](images/ERD1.jpg)
+![image](images/ERD1.JPG)
 
 ### Bookstore Exercise:
 
