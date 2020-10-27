@@ -2,6 +2,8 @@
 
 ## **REFER TO ERD Diagram within images folder !!**
 
+![image](images/ERD1.jpg)
+
 ### Bookstore Exercise:
 
 **Create the database**
