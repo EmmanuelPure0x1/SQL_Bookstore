@@ -1,5 +1,6 @@
 # SQL_Bookstore
 
+## **REFER TO ERD Diagram within images folder !!**
 
 ### Bookstore Exercise:
 
