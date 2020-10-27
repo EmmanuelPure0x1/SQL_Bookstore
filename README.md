@@ -36,7 +36,7 @@ CREATE TABLE booking (
     date_purchased DATE,
     price DECIMAL(5,2)
 );
-
+```
 ### Querie abovbe display the creation of three tables (users, ebooks, booking). Information regarding each section fed into table along with references with the help of Primary Keys.
 
 **User INSERT test**
