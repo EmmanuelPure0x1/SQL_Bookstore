@@ -11,7 +11,7 @@ CREATE DATABASE bookstore;
 
 USE bookstore;
  
-
+```
 CREATE TABLE users (
     user_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
     first_name VARCHAR(255) NOT NULL,
