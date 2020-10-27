@@ -1,4 +1,4 @@
 # SQL_Bookstore
 
-![erd_diagram](images/erd.jpg)
+![erd_diagram](images/ERD1.jpg)
 
