@@ -40,7 +40,7 @@ CREATE TABLE booking (
 ### Querie abovbe display the creation of three tables (users, ebooks, booking). Information regarding each section fed into table along with references with the help of Primary Keys.
 
 **User INSERT test**
-
+```
 INSERT INTO users (
     first_name,
     last_name,
@@ -82,3 +82,4 @@ INSERT INTO booking (
     '20200420',
     9.99
 );
+```
