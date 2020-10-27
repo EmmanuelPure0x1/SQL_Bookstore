@@ -1,7 +1,5 @@
 # SQL_Bookstore
 
-## **REFER TO ERD Diagram within images folder !!**
-
 ![image](images/ERD1.JPG)
 
 ### Bookstore Exercise:
